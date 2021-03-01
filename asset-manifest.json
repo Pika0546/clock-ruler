@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clock-ruler/static/css/main.d90a6d22.chunk.css",
+    "main.js": "/clock-ruler/static/js/main.a8d36f1f.chunk.js",
+    "main.js.map": "/clock-ruler/static/js/main.a8d36f1f.chunk.js.map",
+    "runtime-main.js": "/clock-ruler/static/js/runtime-main.c82e78e9.js",
+    "runtime-main.js.map": "/clock-ruler/static/js/runtime-main.c82e78e9.js.map",
+    "static/js/2.357b780b.chunk.js": "/clock-ruler/static/js/2.357b780b.chunk.js",
+    "static/js/2.357b780b.chunk.js.map": "/clock-ruler/static/js/2.357b780b.chunk.js.map",
+    "index.html": "/clock-ruler/index.html",
+    "static/css/main.d90a6d22.chunk.css.map": "/clock-ruler/static/css/main.d90a6d22.chunk.css.map",
+    "static/js/2.357b780b.chunk.js.LICENSE.txt": "/clock-ruler/static/js/2.357b780b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82e78e9.js",
+    "static/js/2.357b780b.chunk.js",
+    "static/css/main.d90a6d22.chunk.css",
+    "static/js/main.a8d36f1f.chunk.js"
+  ]
+}
